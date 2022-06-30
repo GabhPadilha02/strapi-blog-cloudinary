@@ -117,9 +117,3 @@ build
 .strapi-updater.json
 
 
-username zirkqhkdivnfzh
-senha 4571a03c5cbc193a203730688c4249d2087a1c2fcacb6d84fa87f906d0dbd969
-servidor ec2-54-159-22-90.compute-1.amazonaws.com
-porta 5432
-base de dados d9anetteklfsel
-
